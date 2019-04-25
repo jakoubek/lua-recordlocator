@@ -34,5 +34,5 @@ Decoding recordlocators back into the integer values:
 require('recordlocator')
 
 number = decode('78G')
-print(number)
+print(number)   -- 5325
 ```
